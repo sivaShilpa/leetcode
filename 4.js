@@ -11,4 +11,4 @@ var findMedianSortedArrays = function(nums1, nums2) {
     return median
 };
 
-console.log(findMedianSortedArrays([1,3], [2,4])) 
+console.log(findMedianSortedArrays([1,3],[2,4])) 
