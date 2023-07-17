@@ -26,7 +26,7 @@ var fourSum = function(nums, target) {
         let sum = f.reduce(function(a,b){
             return a+b;
         }, 0);
-        console.log(sum)
+        // console.log(sum)
         let isthere = false
         if(result1.length >= 1){
             for(r of result1){
