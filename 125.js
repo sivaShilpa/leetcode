@@ -15,4 +15,4 @@ var isPalindrome = function(s) {
     return retVal
 };
 
-console.log(isPalindrome("race a car"))
+console.log(isPalindrome("A man, a plan, a canal: Panama"))
