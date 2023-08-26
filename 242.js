@@ -1,9 +1,12 @@
 var isAnagram = function(s, t) {
     let retVal = false
+    let tArr = t.split("")
     if(s.length === t.length){
         for(let i = 0; i<s.length; i++){
-            if(t.includes(s[i])){
+            if(tArr.includes(s[i])){
                 retVal = true
+                let index = tArr.indexOf(s[i])
+                tArr.splice(index,1)
             }
             else{
                 retVal = false
@@ -16,4 +19,4 @@ var isAnagram = function(s, t) {
     return retVal    
 };
 
-console.log(isAnagram("palindrome", "medlpawnor"))
+console.log(isAnagram("aacc", "ccac"))
