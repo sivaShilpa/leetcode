@@ -1,6 +1,7 @@
 var missingNumber = function(nums) {
     let sorted = nums.sort((a,b)=>a-b)
     let missingNum = 0
+    
     if(sorted[0] === 0){
         missingNum = sorted[sorted.length-1] + 1
     }else{
