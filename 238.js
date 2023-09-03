@@ -1,16 +1,17 @@
 var productExceptSelf = function(nums) {
-    let ourArray = nums
-    let cache
-    let output = []
+    let retVal = []
+    
     for(let i=0; i<nums.length; i++){
-        let ignore = i
-        cache = ourArray.splice(ignore, 1)
-        output.push(ourArray.reduce((a, b) => {
-            return a * b
-        }))
-        ourArray.splice(ignore, 0, cache)
+        retVal.push(1)
     }
-    return output
-};
+    for(let i=0; i<nums.length; i++){
+        for(let j=0; j<retVal.length; j++){
+            retVal
+        }
+    }
+    return retVal   
+}
+
+   
 let numbers = [-1,1,0,-3,3]
 console.log(productExceptSelf(numbers))
