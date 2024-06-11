@@ -3,16 +3,11 @@
  * @return {number}
  */
 var heightChecker = function(heights) {
-    // initialize expected as empty array
-    const expected = []
+    // initialize expected 
+    const expected = [...heights]
     // initialize a retVal as zero
     let retVal = 0
-    // sort heights and assign it to expected
-    let k = 0
-    while(k < heights.length){
-        expected.push(heights[k])
-        k++
-    }
+    // sort heights and assign it to expected    
     expected.sort((a,b) => a-b)
     // loop through heights
     for(let i = 0; i < heights.length; i++){
