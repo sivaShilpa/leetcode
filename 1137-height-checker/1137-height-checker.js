@@ -12,7 +12,6 @@ var heightChecker = function(heights) {
     // loop through heights
     for(let i = 0; i < heights.length; i++){
         // check if heights[i] !== expected[i]
-        console.log(heights[i], expected[i])
         if(heights[i] != expected[i]){
             // then add 1 to retVal
             retVal++
