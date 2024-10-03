@@ -14,9 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/sivaShilpa/leetcode/tree/master/0290-word-pattern) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sivaShilpa/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/sivaShilpa/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/sivaShilpa/leetcode/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
