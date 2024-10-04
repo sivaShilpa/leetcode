@@ -24,4 +24,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/sivaShilpa/leetcode/tree/master/0290-word-pattern) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/sivaShilpa/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 <!---LeetCode Topics End-->
