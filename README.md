@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sivaShilpa/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1656-count-good-triplets](https://github.com/sivaShilpa/leetcode/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sivaShilpa/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Enumeration
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sivaShilpa/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sivaShilpa/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## String
 |  |
@@ -30,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sivaShilpa/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sivaShilpa/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sivaShilpa/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
