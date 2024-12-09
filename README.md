@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/sivaShilpa/leetcode/tree/master/0290-word-pattern) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/sivaShilpa/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sivaShilpa/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/sivaShilpa/leetcode/tree/master/0290-word-pattern) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sivaShilpa/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/sivaShilpa/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sivaShilpa/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Math
 |  |
@@ -40,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sivaShilpa/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/sivaShilpa/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 <!---LeetCode Topics End-->
