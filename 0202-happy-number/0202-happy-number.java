@@ -6,7 +6,7 @@ class Solution {
         // iterate until n is not equal to 1 
         while(n != 1){
             // if counter == 10000 then return false
-            if(counter == 10000){
+            if(counter == 1000){
                 return false;
             }
             // convert n to string called nString
