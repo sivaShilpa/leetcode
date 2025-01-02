@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sivaShilpa/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1306-minimum-absolute-difference](https://github.com/sivaShilpa/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sivaShilpa/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sivaShilpa/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/sivaShilpa/leetcode/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/sivaShilpa/leetcode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/sivaShilpa/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sivaShilpa/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/sivaShilpa/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sivaShilpa/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sivaShilpa/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1306-minimum-absolute-difference](https://github.com/sivaShilpa/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sivaShilpa/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sivaShilpa/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sivaShilpa/leetcode/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sivaShilpa/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -67,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sivaShilpa/leetcode/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sivaShilpa/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
