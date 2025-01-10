@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sivaShilpa/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1656-count-good-triplets](https://github.com/sivaShilpa/leetcode/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sivaShilpa/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2518-the-employee-that-worked-on-the-longest-task](https://github.com/sivaShilpa/leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [3321-type-of-triangle](https://github.com/sivaShilpa/leetcode/tree/master/3321-type-of-triangle) |
 ## Enumeration
 |  |
