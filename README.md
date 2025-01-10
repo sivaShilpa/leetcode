@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/sivaShilpa/leetcode/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sivaShilpa/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/sivaShilpa/leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sivaShilpa/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/sivaShilpa/leetcode/tree/master/3321-type-of-triangle) |
 ## Enumeration
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sivaShilpa/leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/sivaShilpa/leetcode/tree/master/0263-ugly-number) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sivaShilpa/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sivaShilpa/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/sivaShilpa/leetcode/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
