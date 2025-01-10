@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/sivaShilpa/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/sivaShilpa/leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sivaShilpa/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2698-find-the-array-concatenation-value](https://github.com/sivaShilpa/leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [3321-type-of-triangle](https://github.com/sivaShilpa/leetcode/tree/master/3321-type-of-triangle) |
 ## Enumeration
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/sivaShilpa/leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sivaShilpa/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2698-find-the-array-concatenation-value](https://github.com/sivaShilpa/leetcode/tree/master/2698-find-the-array-concatenation-value) |
 ## Linked List
 |  |
 | ------- |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sivaShilpa/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Simulation
+|  |
+| ------- |
+| [2698-find-the-array-concatenation-value](https://github.com/sivaShilpa/leetcode/tree/master/2698-find-the-array-concatenation-value) |
 <!---LeetCode Topics End-->
