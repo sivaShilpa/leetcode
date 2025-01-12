@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sivaShilpa/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sivaShilpa/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1656-count-good-triplets](https://github.com/sivaShilpa/leetcode/tree/master/1656-count-good-triplets) |
+| [1829-maximum-units-on-a-truck](https://github.com/sivaShilpa/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sivaShilpa/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/sivaShilpa/leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sivaShilpa/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/sivaShilpa/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sivaShilpa/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sivaShilpa/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1829-maximum-units-on-a-truck](https://github.com/sivaShilpa/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sivaShilpa/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/sivaShilpa/leetcode/tree/master/3321-type-of-triangle) |
 ## String
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2722-prime-in-diagonal](https://github.com/sivaShilpa/leetcode/tree/master/2722-prime-in-diagonal) |
+## Greedy
+|  |
+| ------- |
+| [1829-maximum-units-on-a-truck](https://github.com/sivaShilpa/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
