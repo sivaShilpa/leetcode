@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/sivaShilpa/leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sivaShilpa/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2698-find-the-array-concatenation-value](https://github.com/sivaShilpa/leetcode/tree/master/2698-find-the-array-concatenation-value) |
+| [2722-prime-in-diagonal](https://github.com/sivaShilpa/leetcode/tree/master/2722-prime-in-diagonal) |
 | [3321-type-of-triangle](https://github.com/sivaShilpa/leetcode/tree/master/3321-type-of-triangle) |
 ## Enumeration
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/sivaShilpa/leetcode/tree/master/0263-ugly-number) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sivaShilpa/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sivaShilpa/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2722-prime-in-diagonal](https://github.com/sivaShilpa/leetcode/tree/master/2722-prime-in-diagonal) |
 | [3321-type-of-triangle](https://github.com/sivaShilpa/leetcode/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
@@ -100,4 +102,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/sivaShilpa/leetcode/tree/master/0733-flood-fill) |
+| [2722-prime-in-diagonal](https://github.com/sivaShilpa/leetcode/tree/master/2722-prime-in-diagonal) |
+## Number Theory
+|  |
+| ------- |
+| [2722-prime-in-diagonal](https://github.com/sivaShilpa/leetcode/tree/master/2722-prime-in-diagonal) |
 <!---LeetCode Topics End-->
