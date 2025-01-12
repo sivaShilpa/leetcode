@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/sivaShilpa/leetcode/tree/master/0290-word-pattern) |
+| [0874-backspace-string-compare](https://github.com/sivaShilpa/leetcode/tree/master/0874-backspace-string-compare) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sivaShilpa/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sivaShilpa/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/sivaShilpa/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/sivaShilpa/leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sivaShilpa/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0874-backspace-string-compare](https://github.com/sivaShilpa/leetcode/tree/master/0874-backspace-string-compare) |
 | [2698-find-the-array-concatenation-value](https://github.com/sivaShilpa/leetcode/tree/master/2698-find-the-array-concatenation-value) |
 ## Linked List
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/sivaShilpa/leetcode/tree/master/0874-backspace-string-compare) |
 | [2698-find-the-array-concatenation-value](https://github.com/sivaShilpa/leetcode/tree/master/2698-find-the-array-concatenation-value) |
 ## Depth-First Search
 |  |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1829-maximum-units-on-a-truck](https://github.com/sivaShilpa/leetcode/tree/master/1829-maximum-units-on-a-truck) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/sivaShilpa/leetcode/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
