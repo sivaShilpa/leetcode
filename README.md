@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/sivaShilpa/leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2722-prime-in-diagonal](https://github.com/sivaShilpa/leetcode/tree/master/2722-prime-in-diagonal) |
 | [3321-type-of-triangle](https://github.com/sivaShilpa/leetcode/tree/master/3321-type-of-triangle) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/sivaShilpa/leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Enumeration
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/sivaShilpa/leetcode/tree/master/0733-flood-fill) |
 | [2722-prime-in-diagonal](https://github.com/sivaShilpa/leetcode/tree/master/2722-prime-in-diagonal) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/sivaShilpa/leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Number Theory
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1829-maximum-units-on-a-truck](https://github.com/sivaShilpa/leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/sivaShilpa/leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Stack
 |  |
 | ------- |
