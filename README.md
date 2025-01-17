@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/sivaShilpa/leetcode/tree/master/0290-word-pattern) |
 | [0874-backspace-string-compare](https://github.com/sivaShilpa/leetcode/tree/master/0874-backspace-string-compare) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sivaShilpa/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/sivaShilpa/leetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sivaShilpa/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/sivaShilpa/leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/sivaShilpa/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
