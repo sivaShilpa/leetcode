@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/sivaShilpa/leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/sivaShilpa/leetcode/tree/master/0263-ugly-number) |
+| [1013-fibonacci-number](https://github.com/sivaShilpa/leetcode/tree/master/1013-fibonacci-number) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sivaShilpa/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sivaShilpa/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2722-prime-in-diagonal](https://github.com/sivaShilpa/leetcode/tree/master/2722-prime-in-diagonal) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sivaShilpa/leetcode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/sivaShilpa/leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/sivaShilpa/leetcode/tree/master/0874-backspace-string-compare) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sivaShilpa/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sivaShilpa/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
