@@ -3,13 +3,10 @@ class Solution {
         int countOfTokens = 0;
         String[] sentArray = sentence.trim().split("\\s+");
 
-        System.out.println(sentArray.length);
-
         for (int i = 0; i < sentArray.length; i++) {
             String word = sentArray[i];
 
             if (isToken(word)) {
-                System.out.println("index " + i + " length " + word.length());
                 countOfTokens++;
             }
         }
@@ -27,7 +24,7 @@ class Solution {
 
         for (int j = 0; j < word.length(); j++) {
             char letter = word.charAt(j);
-            System.out.println(letter);
+    
             if (Character.isDigit(letter)) {
                 return false;
             }
