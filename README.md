@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/sivaShilpa/leetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sivaShilpa/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/sivaShilpa/leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2173-number-of-valid-words-in-a-sentence](https://github.com/sivaShilpa/leetcode/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/sivaShilpa/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sivaShilpa/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sivaShilpa/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
