@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sivaShilpa/leetcode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/sivaShilpa/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sivaShilpa/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/sivaShilpa/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sivaShilpa/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sivaShilpa/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sivaShilpa/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1306-minimum-absolute-difference](https://github.com/sivaShilpa/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sivaShilpa/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sivaShilpa/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sivaShilpa/leetcode/tree/master/0290-word-pattern) |
 | [0874-backspace-string-compare](https://github.com/sivaShilpa/leetcode/tree/master/0874-backspace-string-compare) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sivaShilpa/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
